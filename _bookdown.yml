@@ -1,0 +1,16 @@
+book_filename: "MEIS_process_guide"
+rmd_files: ["index.Rmd",
+            "requirements.Rmd",
+            "how_to_obtain.Rmd",
+            "set_up_repo.Rmd",
+            "data_dictionary.Rmd",
+            "methods.Rmd",
+            "conclusion.Rmd",
+            "whats_next.Rmd",
+            "licenses.Rmd",
+            "references.Rmd"]
+output_dir: "docs"
+language:
+  ui:
+    chapter_name: "Section "
+delete_merged_file: true
